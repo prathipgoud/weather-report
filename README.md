@@ -6,14 +6,15 @@ This is a command-line weather application built in Python. It allows you to che
 Requirements:
 - requests module
 
-How to Run:
-1. Open terminal in project folder.
-2. Run the script using:
-3. Enter the city name when prompted.
 
 API Used:
 - WeatherAPI (https://www.weatherapi.com/)
 - API Key: 916988b9cee240c9bb1163450253007
+
+How to Run:
+1. Open terminal in project folder.
+2. Run the script using:
+3. Enter the city name when prompted.
 
 Output:
 - City Name
