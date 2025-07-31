@@ -4,7 +4,7 @@ API_KEY = "916988b9cee240c9bb1163450253007"
 BASE_URL = "http://api.weatherapi.com/v1/current.json"
 
 def get_weather(city_name):
-    url = f"{BASE_URL}?key={API_KEY}&q={city_name}&aqi=no"
+    url = f"{BASE_URL}?key={API_KEY}&q={city_name}&aqi=no" 
     
     try:
         response = requests.get(url)
